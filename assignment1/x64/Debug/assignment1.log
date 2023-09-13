@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(Assignment1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  carManage.cpp
+C:\Users\zhang\Desktop\vsproject\carSystem\assignment1\carManage.cpp(110,22): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\zhang\Desktop\vsproject\carSystem\assignment1\carManage.cpp(192,22): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\zhang\Desktop\vsproject\carSystem\assignment1\carManage.cpp(276,18): warning C4805: “==”: 在操作中将类型“char”与类型“bool”混合不安全
+C:\Users\zhang\Desktop\vsproject\carSystem\assignment1\carManage.cpp(294,23): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\zhang\Desktop\vsproject\carSystem\assignment1\carManage.cpp(361,23): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\zhang\Desktop\vsproject\carSystem\assignment1\carManage.cpp(398,26): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  assignment1.vcxproj -> C:\Users\zhang\Desktop\vsproject\carSystem\x64\Debug\CarManagementSystem.exe
